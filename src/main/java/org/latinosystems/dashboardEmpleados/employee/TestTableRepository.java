@@ -1,4 +1,4 @@
-package org.latinosystems.dashboardEmpleados.empleado;
+package org.latinosystems.dashboardEmpleados.employee;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

@@ -1,4 +1,4 @@
-package org.latinosystems.dashboardEmpleados.empleado;
+package org.latinosystems.dashboardEmpleados.employee;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
