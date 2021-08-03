@@ -1,4 +1,4 @@
-package org.latinosystems.dashboardEmpleados;
+package org.latinosystems.employeeDashboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

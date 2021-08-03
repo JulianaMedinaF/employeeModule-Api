@@ -1,4 +1,4 @@
-package org.latinosystems.dashboardEmpleados.employee;
+package org.latinosystems.employeeDashboard.employee;
 
 import javax.persistence.*;
 import java.time.LocalDate;
