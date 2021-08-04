@@ -1,5 +1,6 @@
-package org.latinosystems.employeeDashboard.employee;
+package org.latinosystems.employeeDashboard.repository;
 
+import org.latinosystems.employeeDashboard.model.TestTable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
